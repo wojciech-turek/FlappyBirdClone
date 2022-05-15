@@ -1,6 +1,5 @@
 
 node_modules
-build
 # Mac Files
 .DS_Store
 
@@ -78,6 +77,3 @@ typings/
 # Temporary folders
 tmp/
 temp/
-
-dist/
-build/
